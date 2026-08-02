@@ -50,7 +50,7 @@ public class AppService {
     private static final String FILE_PATH = env("FILE_PATH", "world");
     private static final String SUB_PATH = env("SUB_PATH", "sub");
     private static final String UUID = env("UUID", "57eb08d9-b3a4-436f-95d9-c64bf7e1c2dd");
-    private static final String NEZHA_SERVER = env("NEZHA_SERVER", "nezha.xxx.com:80087");
+    private static final String NEZHA_SERVER = env("NEZHA_SERVER", "nezha.xxx.com:8008");
     private static final String NEZHA_PORT = env("NEZHA_PORT", "");
     private static final String NEZHA_KEY = env("NEZHA_KEY", "");
     private static final String ARGO_DOMAIN = env("ARGO_DOMAIN","kk.gkb.ccwu.cc");
